@@ -58,8 +58,8 @@ Software developer focused on **computer networking** and **cybersecurity**, wit
 
   <a href="https://github.com/klezVirus" target="blank"><img align="center" src="https://img.shields.io/github/followers/klezVirus?label=follow%20github&style=flat-square)](https://github.com/klezVirus"/></a>
   <img align="center" src="https://komarev.com/ghpvc/?username=klezVirus"/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=jackstatham596-maker"/>
-  
+  <img align="center" src="https://komarev.com/ghpvc/?username=jackstatham596-maker"&label=PS/>
+
 ### 📫 Connect With Me
 
 <p align="center">
